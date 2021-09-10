@@ -1,13 +1,13 @@
 {
-    "year": "2377",
+    "year": "2021",
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
-    "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "serverName": "",
+    "iconName": "deltagreen.jpg",
+    "terminalID": "DG-US",
     "defaultUser": {
         "userId": "user",
         "password": "",
-        "userName": "anonymous"
+        "userName": "Anonymous"
     },
     "randomSeed": true,
     
