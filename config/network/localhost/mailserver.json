@@ -22,5 +22,12 @@
         "to": ["Mark"],
         "title": "Invitation",
         "body": "Do you wanna build a snowman?"
+    },
+    {
+        "from": "Shaun",
+        "to": ["Alexei"],
+        "title": "Nothing to worry about",
+        "body": "It's gonna get a whole lot worse"
     }
+
 ]

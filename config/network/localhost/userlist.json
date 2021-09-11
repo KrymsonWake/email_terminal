@@ -18,14 +18,20 @@
     },
 
     {
-        "userId": "Mark",
-        "password": "Abejuro",
-        "userName": "I DON'T WOMAN"
+        "userId": "Shaun",
+        "password": "Hastings",
+        "userName": "Deacon"
     },
 
     {
         "userId": "Mayson",
         "password": "StPierre",
         "userName": "Warden"
+    },
+
+    {
+        "userId": "Alexei",
+        "password": "Novak",
+        "userName": "Grzmt"
     }
 ]
