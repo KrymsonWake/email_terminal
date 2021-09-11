@@ -147,7 +147,6 @@ kernel.getDatabases = function() {
 		return(true)
 	})
 }
-
 /**
  * This will initialize the kernel function.
  * 
