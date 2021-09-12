@@ -374,7 +374,7 @@ var system = {
 					readOption = true
 					message.push(`---------------------------------------------`)
 					message.push(`From: ` + mail.from)
-					message.push('Case File: ')
+					message.push('Case File: ' + mail.from)
 					message.push('Mission Type: ')
 					message.push('Clearance: ')
 					message.push(`To: ` + userDatabase.userId + `@` + serverDatabase.terminalID)
