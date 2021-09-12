@@ -1,22 +1,11 @@
 [
     {
-        "from": "Elsa",
-        "to": ["Shaun"],
-        "title": "Invitation",
-        "body": "Do you wanna build a snowman?"
-    },
-
-    {
-        "from": "Shaun",
-        "to": ["Alexei"],
-        "title": "Nothing to worry about",
-        "body": "It's gonna get a whole lot worse"
-    },
-
-    {
         "from": "Renko",
+        "Case File": "#2017345",
+        "Mission Type": "Investigation Of Asset Death",
+        "Clearance": "Beyond Top Secret Delta Green",
         "to": ["Deacon"],
         "title": "Operation Lady Bug",
-        "body": "Agent gone rougue, assist local law enforcment, neutralize agent to not allow capture, if any material relating to delta green is found BURN/DESTROY. Further information will be given upon location arrival"
+        "body": "Former FBI/ATF asset (George Lewiston) has gone rouge, kidnapped 5 years old Caucasian Female named (Regina Balfour) daughter of known cult leader (John Balfour) (FBI Terror Watchlist #121732). Reason Unknown. Neutralization of assets knowledge of the program is of high priority secondary team has been deployed to recover all possible materials and files connecting him to Delta Green. Possible connections to Christian Cult (Church Of Passover Angel) (FBI Cult Database #061399). Asset was found dead committing suicide to allow unknown female conspirator to escape with (Regina Balfour). Mission is considered to be medium to high risk secondary delta green unit is on site for retrieval and disposal of (George Lewiston) files relating to the program but may be called in as backup if mission escalates beyond current teams capability. Because of the status of the cult (Church Of the Passover Angel) as known terrorist threat, Delta Green Special Operations Unit (Fire Fly) is on standby"
     }
 ]
