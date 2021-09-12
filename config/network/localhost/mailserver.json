@@ -5,11 +5,18 @@
         "title": "Invitation",
         "body": "Do you wanna build a snowman?"
     },
+
     {
         "from": "Shaun",
         "to": ["Alexei"],
         "title": "Nothing to worry about",
         "body": "It's gonna get a whole lot worse"
-    }
+    },
 
+    {
+        "from": "Renko",
+        "to": ["Deacon"],
+        "title": "Operation Lady Bug",
+        "body": "Agent gone rougue, assist local law enforcment, neutralize agent to not allow capture, if any material relating to delta green is found BURN/DESTROY"
+    }
 ]

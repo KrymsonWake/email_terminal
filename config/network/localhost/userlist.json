@@ -1,19 +1,19 @@
 [
     {
-        "userId": "Shaun",
-        "password": "Hastings",
-        "userName": "Deacon"
+        "userId": "Deacon",
+        "password": "Fawkes",
+        "userName": "Shaun Hastings"
     },
 
     {
-        "userId": "Mayson",
-        "password": "StPierre",
-        "userName": "Warden"
+        "userId": "Warden",
+        "password": "qwerty",
+        "userName": "Mayson St-Pierre"
     },
 
     {
-        "userId": "Alexei",
-        "password": "Novak",
-        "userName": "Grzmt"
+        "userId": "Grzmt",
+        "password": "Poland",
+        "userName": "ALexei Novak"
     }
 ]
