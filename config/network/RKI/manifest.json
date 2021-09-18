@@ -1,0 +1,14 @@
+{
+    "serverAddress": "RKI",
+    "serverName": "Robert Koch Institute",
+    "iconName": "Bundesrat.png",
+    "terminalID": "vtech",
+    "defaultUser": {
+        "userId": "user",
+        "password": "",
+        "userName": "Scientist"
+    },
+    "randomSeed": false,
+    
+    "latestKernel": true
+}

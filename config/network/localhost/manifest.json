@@ -1,13 +1,13 @@
 {
-    "year": "2021",
+    "year": "2017",
     "serverAddress": "localhost",
-    "serverName": "",
-    "iconName": "deltagreen.jpg",
-    "terminalID": "DG-US",
+    "serverName": "Delta Green: Mors Est Scientia",
+    "iconName": "Delta.jpg",
+    "terminalID": "Delta Green",
     "defaultUser": {
-        "userId": "user",
+        "userId": "Agent",
         "password": "",
-        "userName": "Anonymous"
+        "userName": "anonymous"
     },
     "randomSeed": true,
     

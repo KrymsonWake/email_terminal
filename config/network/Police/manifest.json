@@ -1,0 +1,14 @@
+{
+    "serverAddress": "Police",
+    "serverName": "Portugal Police",
+    "iconName": "B.png",
+    "terminalID": "Police",
+    "defaultUser": {
+        "userId": "user",
+        "password": "",
+        "userName": "anonymous"
+    },
+    "randomSeed": true,
+    
+    "latestKernel": true
+}

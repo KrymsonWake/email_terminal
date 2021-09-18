@@ -1,0 +1,14 @@
+{
+    "serverAddress": "AW",
+    "serverName": "Agencja Wywiadu",
+    "iconName": "AW.jpg",
+    "terminalID": "AW",
+    "defaultUser": {
+        "userId": "user",
+        "password": "",
+        "userName": "anonymous"
+    },
+    "randomSeed": true,
+    
+    "latestKernel": true
+}

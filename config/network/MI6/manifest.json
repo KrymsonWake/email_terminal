@@ -1,0 +1,14 @@
+{
+    "serverAddress": "MI6",
+    "serverName": "MI6",
+    "iconName": "MI6.png",
+    "terminalID": "MI6_ACCESS",
+    "defaultUser": {
+        "userId": "user",
+        "password": "",
+        "userName": "Agent"
+    },
+    "randomSeed": false,
+    
+    "latestKernel": true
+}

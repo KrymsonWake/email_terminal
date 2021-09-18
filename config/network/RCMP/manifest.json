@@ -1,0 +1,14 @@
+{
+    "serverAddress": "RCMP",
+    "serverName": "Royal Canadian Mounted Police",
+    "iconName": "RCMP.png",
+    "terminalID": "city",
+    "defaultUser": {
+        "userId": "user",
+        "password": "",
+        "userName": "anon"
+    },
+    "randomSeed": false,
+    
+    "latestKernel": true
+}
