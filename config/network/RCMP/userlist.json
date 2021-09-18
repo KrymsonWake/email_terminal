@@ -1,0 +1,25 @@
+[
+    {
+        "userId": "8A73B5",
+        "password": "trustno1",
+        "userName": "Mulder, Fox"
+    },
+
+    {
+        "userId": "Deacon",
+        "password": "056809",
+        "userName": "Hastings, Shaun"
+    },
+
+    {
+        "userId": "admin",
+        "password": "admin",
+        "userName": "root"
+    },
+
+    {
+        "userId": "Warden",
+        "password": "094623",
+        "userName": "Mayson St-Pierre"
+    }
+]
